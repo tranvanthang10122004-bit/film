@@ -5,3 +5,7 @@
 
 #EXTINF:10.0,
 movie0.ts
+#EXTINF:10.0,
+movie1.ts
+
+#EXT-X-ENDLIST
