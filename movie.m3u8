@@ -11,4 +11,16 @@ movie1.ts
 movie2.ts
 #EXTINF:10.0,
 movie3.ts
+#EXTINF:10.0,
+movie4.ts
+#EXTINF:10.0,
+movie5.ts
+#EXTINF:10.0,
+movie6.ts
+#EXTINF:10.0,
+movie7.ts
+#EXTINF:10.0,
+movie8.ts
+#EXTINF:10.0,
+movie9.ts
 #EXT-X-ENDLIST
