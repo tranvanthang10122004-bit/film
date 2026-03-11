@@ -7,5 +7,12 @@
 movie0.ts
 #EXTINF:10.0,
 movie1.ts
+#EXTINF:10.0,
+movie2.ts
+#EXTINF:10.0,
+movie3.ts
+#EXTINF:10.0,
+movie4.ts
+
 
 #EXT-X-ENDLIST
