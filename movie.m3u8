@@ -3,13 +3,13 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 
-#EXTINF:10.0,
+#EXTINF:8.0,
 movie0.ts
-#EXTINF:10.0,
+#EXTINF:8.0,
 movie1.ts
-#EXTINF:10.0,
+#EXTINF:8.0,
 movie2.ts
-#EXTINF:10.0,
+#EXTINF:8.0,
 movie3.ts
 #EXTINF:10.0,
 movie4.ts
