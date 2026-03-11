@@ -8,6 +8,8 @@ movie0.ts
 #EXTINF:10.0,
 movie1.ts
 #EXTINF:10.0,
+movie10.ts
+#EXTINF:10.0,
 movie2.ts
 #EXTINF:10.0,
 movie3.ts
@@ -17,8 +19,6 @@ movie4.ts
 movie5.ts
 #EXTINF:10.0,
 movie6.ts
-#EXTINF:10.0,
-movie7.ts
 #EXTINF:10.0,
 movie8.ts
 #EXTINF:10.0,
