@@ -3,27 +3,14 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 
-#EXTINF:10,
-movie0.ts
-#EXTINF:10,
-movie1.ts
-#EXTINF:10,
-movie2.ts
-#EXTINF:10,
-movie3.ts
-#EXTINF:10,
-movie4.ts
-#EXTINF:10,
-movie5.ts
-#EXTINF:10,
-movie6.ts
-#EXTINF:10,
-movie7.ts
-#EXTINF:10,
-movie8.ts
-#EXTINF:10,
-movie9.ts
-#EXTINF:10,
-movie10.ts
+#EXTINF:8.0,
+https://cdn.jsdelivr.net/gh/tranvanthang10122004-bit/film/movie0.ts
+#EXTINF:8.0,
+https://cdn.jsdelivr.net/gh/tranvanthang10122004-bit/film/movie1.ts
+#EXTINF:8.0,
+https://cdn.jsdelivr.net/gh/tranvanthang10122004-bit/film/movie2.ts
+...
+#EXTINF:8.0,
+https://cdn.jsdelivr.net/gh/tranvanthang10122004-bit/film/movie31.ts
 
 #EXT-X-ENDLIST
