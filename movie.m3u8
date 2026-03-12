@@ -4,7 +4,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF:8.0,
-https://cdn.jsdelivr.net/gh/tranvanthang10122004-bit/film/movie0.ts
+movie0.ts
 #EXTINF:8.0,
 https://cdn.jsdelivr.net/gh/tranvanthang10122004-bit/film/movie1.ts
 #EXTINF:8.0,
